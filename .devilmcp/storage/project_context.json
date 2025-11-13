@@ -1,0 +1,245 @@
+{
+  "projects": {
+    "C:\\Users\\dasbl\\PycharmProjects\\DevilMCP": {
+      "root": "C:\\Users\\dasbl\\PycharmProjects\\DevilMCP",
+      "name": "DevilMCP",
+      "directories": [
+        ".",
+        ".devilmcp",
+        ".devilmcp\\storage",
+        ".idea",
+        ".idea\\inspectionProfiles",
+        "scripts"
+      ],
+      "files": {
+        "BENEFITS.md": {
+          "type": ".md",
+          "lines": 430,
+          "size": 12672,
+          "language": "Markdown"
+        },
+        "cascade_detector.py": {
+          "type": ".py",
+          "lines": 524,
+          "size": 18635,
+          "language": "Python"
+        },
+        "CHANGELOG.md": {
+          "type": ".md",
+          "lines": 99,
+          "size": 4667,
+          "language": "Markdown"
+        },
+        "change_analyzer.py": {
+          "type": ".py",
+          "lines": 397,
+          "size": 14683,
+          "language": "Python"
+        },
+        "claude_code_config.json": {
+          "type": ".json",
+          "lines": 16,
+          "size": 336,
+          "language": "JSON"
+        },
+        "CLAUDE_CONFIG_INSTRUCTIONS.md": {
+          "type": ".md",
+          "lines": 190,
+          "size": 5141,
+          "language": "Markdown"
+        },
+        "context_manager.py": {
+          "type": ".py",
+          "lines": 362,
+          "size": 13572,
+          "language": "Python"
+        },
+        "decision_tracker.py": {
+          "type": ".py",
+          "lines": 336,
+          "size": 11554,
+          "language": "Python"
+        },
+        "example_usage.py": {
+          "type": ".py",
+          "lines": 356,
+          "size": 13971,
+          "language": "Python"
+        },
+        "GETTING_STARTED.md": {
+          "type": ".md",
+          "lines": 333,
+          "size": 6969,
+          "language": "Markdown"
+        },
+        "GITIGNORE_TEMPLATE.txt": {
+          "type": ".txt",
+          "lines": 10,
+          "size": 336,
+          "language": "Unknown"
+        },
+        "INSTALLATION_GUIDE.md": {
+          "type": ".md",
+          "lines": 626,
+          "size": 13151,
+          "language": "Markdown"
+        },
+        "PROJECT_ISOLATION.md": {
+          "type": ".md",
+          "lines": 191,
+          "size": 5498,
+          "language": "Markdown"
+        },
+        "QUICK_REFERENCE.md": {
+          "type": ".md",
+          "lines": 285,
+          "size": 9513,
+          "language": "Markdown"
+        },
+        "README.md": {
+          "type": ".md",
+          "lines": 429,
+          "size": 13957,
+          "language": "Markdown"
+        },
+        "requirements.txt": {
+          "type": ".txt",
+          "lines": 10,
+          "size": 171,
+          "language": "Unknown"
+        },
+        "SCENARIOS.md": {
+          "type": ".md",
+          "lines": 696,
+          "size": 20941,
+          "language": "Markdown"
+        },
+        "server.py": {
+          "type": ".py",
+          "lines": 758,
+          "size": 22571,
+          "language": "Python"
+        },
+        "setup.py": {
+          "type": ".py",
+          "lines": 40,
+          "size": 1332,
+          "language": "Python"
+        },
+        "SETUP_GUIDE.md": {
+          "type": ".md",
+          "lines": 208,
+          "size": 5174,
+          "language": "Markdown"
+        },
+        "test_isolation.py": {
+          "type": ".py",
+          "lines": 125,
+          "size": 4069,
+          "language": "Python"
+        },
+        "test_server.py": {
+          "type": ".py",
+          "lines": 399,
+          "size": 12963,
+          "language": "Python"
+        },
+        "test_server_fixed.py": {
+          "type": ".py",
+          "lines": 399,
+          "size": 12912,
+          "language": "Python"
+        },
+        "thought_processor.py": {
+          "type": ".py",
+          "lines": 554,
+          "size": 17942,
+          "language": "Python"
+        },
+        "USAGE_GUIDE.md": {
+          "type": ".md",
+          "lines": 999,
+          "size": 24536,
+          "language": "Markdown"
+        },
+        ".devilmcp\\storage\\decisions.json": {
+          "type": ".json",
+          "lines": 22,
+          "size": 548,
+          "language": "JSON"
+        },
+        ".idea\\copilot.data.migration.agent.xml": {
+          "type": ".xml",
+          "lines": 6,
+          "size": 195,
+          "language": "Unknown"
+        },
+        ".idea\\copilot.data.migration.ask.xml": {
+          "type": ".xml",
+          "lines": 6,
+          "size": 193,
+          "language": "Unknown"
+        },
+        ".idea\\copilot.data.migration.ask2agent.xml": {
+          "type": ".xml",
+          "lines": 6,
+          "size": 199,
+          "language": "Unknown"
+        },
+        ".idea\\copilot.data.migration.edit.xml": {
+          "type": ".xml",
+          "lines": 6,
+          "size": 194,
+          "language": "Unknown"
+        },
+        ".idea\\modules.xml": {
+          "type": ".xml",
+          "lines": 8,
+          "size": 275,
+          "language": "Unknown"
+        },
+        ".idea\\vcs.xml": {
+          "type": ".xml",
+          "lines": 6,
+          "size": 172,
+          "language": "Unknown"
+        },
+        ".idea\\workspace.xml": {
+          "type": ".xml",
+          "lines": 99,
+          "size": 4876,
+          "language": "Unknown"
+        },
+        ".idea\\inspectionProfiles\\profiles_settings.xml": {
+          "type": ".xml",
+          "lines": 6,
+          "size": 174,
+          "language": "Unknown"
+        }
+      },
+      "file_types": {
+        ".example": 1,
+        ".md": 11,
+        ".py": 11,
+        ".json": 2,
+        ".txt": 2,
+        ".bat": 1,
+        ".xml": 8,
+        ".iml": 1,
+        ".ps1": 1
+      },
+      "total_files": 41,
+      "total_lines": 8937,
+      "languages": [
+        "Markdown",
+        "Python",
+        "JSON",
+        "Unknown"
+      ],
+      "analyzed_at": "2025-11-12T20:59:39.765005"
+    }
+  },
+  "file_map": {},
+  "dependencies": {},
+  "last_updated": "2025-11-12T20:59:39.773188"
+}

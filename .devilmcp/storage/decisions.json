@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "decision": "Test DevilMCP server functionality",
+    "rationale": "Verifying that the MCP server can properly log decisions and track changes as expected",
+    "context": {
+      "test": true,
+      "session": "review",
+      "timestamp": "2025-11-12"
+    },
+    "alternatives_considered": [],
+    "expected_impact": null,
+    "risk_level": "low",
+    "tags": [
+      "test",
+      "verification"
+    ],
+    "timestamp": "2025-11-12T20:59:39.681545",
+    "outcome": null,
+    "actual_impact": null
+  }
+]

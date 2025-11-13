@@ -1,5 +1,30 @@
 # DevilMCP Changelog
 
+## Session Review - 2025-11-12
+
+### Configuration Path Update
+- ✅ Updated MCP server configuration to use PycharmProjects path
+- ✅ Changed from: `C:\Users\dasbl\AndroidStudioProjects\DevilMCP\server.py`
+- ✅ Changed to: `C:\Users\dasbl\PycharmProjects\DevilMCP\server.py`
+- ✅ Server verified working with all tools functional
+- ✅ Configuration scope: User-level (available across all projects)
+- ✅ Storage isolation working correctly per project
+
+### Verification Testing
+- ✅ Tested `get_mcp_statistics` - working
+- ✅ Tested `log_decision` - working
+- ✅ Tested `query_decisions` - working
+- ✅ Tested `analyze_project_structure` - working
+- ✅ All 30+ tools available and responding correctly
+
+### Most Recent Task
+**Date:** 2025-11-12
+**Task:** Review and update MCP server configuration path
+**Status:** Complete ✅ - Server running on-demand as expected
+**Outcome:** Configuration now points to current working directory with latest code
+
+---
+
 ## Session 011CUogCREFb7GskPBXMJ7kH - 2025-11-04
 
 ### Initial Build (Commit: fd0c441)
